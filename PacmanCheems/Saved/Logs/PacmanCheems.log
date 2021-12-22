@@ -1,9 +1,13 @@
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
 ﻿Log file open, 12/22/21 18:53:31
 LogInit: Display: Running engine for game: PacmanCheems
 LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 0.606628
+<<<<<<< Updated upstream
 =======
 ﻿Log file open, 12/22/21 18:10:13
 LogInit: Display: Running engine for game: PacmanCheems
@@ -11,6 +15,8 @@ LogPlatformFile: Not using cached read wrapper
 LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
 LogStats: Stats thread started at 1.799223
 >>>>>>> 88c684b48f6daaa94dd6c633bd9bf19abc5d07f3
+=======
+>>>>>>> Stashed changes
 LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
 LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -4:00, Platform Override: ''
 LogPluginManager: Mounting plugin Paper2D
@@ -147,17 +153,24 @@ LogInit: Build: ++UE4+Release-4.25-CL-14469661
 LogInit: Engine Version: 4.25.4-14469661+++UE4+Release-4.25
 LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
 LogInit: Net CL: 13144385
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz, GPU: Intel(R) UHD Graphics 630
 =======
 LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 5 2500U with Radeon Vega Mobile Gfx  , GPU: AMD Radeon(TM) Vega 8 Graphics
 >>>>>>> 88c684b48f6daaa94dd6c633bd9bf19abc5d07f3
+=======
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz, GPU: Intel(R) UHD Graphics 630
+>>>>>>> Stashed changes
 LogInit: Compiled (64-bit): Oct 11 2020 08:10:49
 LogInit: Compiled with Visual C++: 19.24.28315.00
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.25
 LogInit: Command Line: 
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
 LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.25/Engine/Binaries/Win64/
 =======
 LogInit: Base Directory: C:/UE_4.25/Engine/Binaries/Win64/
@@ -192,11 +205,15 @@ LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 3
 LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
 LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
 LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/danie/Documents/GitHub/PacmanSi/PacmanCheems/Saved/Config/Windows/Engine.ini]
 =======
 LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Pedro/Documents/GitHub/PacmanSi/PacmanCheems/Saved/Config/Windows/Engine.ini]
 >>>>>>> 88c684b48f6daaa94dd6c633bd9bf19abc5d07f3
+=======
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/danie/Documents/GitHub/PacmanSi/PacmanCheems/Saved/Config/Windows/Engine.ini]
+>>>>>>> Stashed changes
 LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
 LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
 LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
@@ -214,7 +231,10 @@ LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
 LogInit: Object subsystem initialized
 LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
 LogConfig: Setting CVar [[r.setres:1280x720]]
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+>>>>>>> Stashed changes
 [2021.12.22-21.53.32:228][  0]LogConfig: Setting CVar [[r.VSync:0]]
 [2021.12.22-21.53.32:228][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
 [2021.12.22-21.53.32:228][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/danie/Documents/GitHub/PacmanSi/PacmanCheems/Saved/Config/Windows/Engine.ini]
@@ -682,6 +702,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.12.22-21.54.14:843][113]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 125 classes and 0 folders.
 [2021.12.22-21.54.16:413][113]LogSlate: Took 0.000626 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
 [2021.12.22-21.54.18:122][152]LogSlate: Took 0.007054 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+<<<<<<< Updated upstream
 [2021.12.22-21.58.10:047][377]LogUObjectHash: Compacting FUObjectHashTables data took   5.09ms
 [2021.12.22-21.58.10:066][377]LogSlate: Window 'ThirdPersonCharacter' being destroyed
 [2021.12.22-21.58.10:123][377]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
@@ -5876,3 +5897,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.12.22-21.44.50:912][128]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
 [2021.12.22-21.44.50:912][128]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widget/WG_Movement.WG_Movement
 >>>>>>> 88c684b48f6daaa94dd6c633bd9bf19abc5d07f3
+=======
+>>>>>>> Stashed changes
