@@ -741,3 +741,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.12.22-23.56.42:930][293]LogSlate: Took 0.000091 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
 [2021.12.22-23.56.44:503][463]LogSlate: Window 'ThirdPersonCharacter' being destroyed
 [2021.12.22-23.56.45:738][605]LogRenderer: Reallocating scene render targets to support 1212x708 Format 10 NumSamples 1 (Frame:1).
+[2021.12.22-23.57.15:937][703]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.12.22-23.57.16:345][745]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
