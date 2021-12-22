@@ -4957,3 +4957,56 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.12.22-21.44.50:912][128]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
 [2021.12.22-21.44.50:912][128]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
 [2021.12.22-21.44.50:912][128]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widget/WG_Movement.WG_Movement
+[2021.12.22-21.48.45:180][199]LogUObjectHash: Compacting FUObjectHashTables data took   8.63ms
+[2021.12.22-21.48.46:063][199]LogSavePackage: Moving '../../../../Users/Pedro/Documents/GitHub/PacmanSi/PacmanCheems/Saved/ThirdPersonCharacter775FD381444C0C6A03BADDA961456197.tmp' to '../../../../Users/Pedro/Documents/GitHub/PacmanSi/PacmanCheems/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.12.22-21.48.47:609][199]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.12.22-21.48.47:609][199]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.12.22-22.53.18:875][999]LogSlate: Window 'Save Level As' being destroyed
+[2021.12.22-22.53.57:853][783]LogUObjectHash: Compacting FUObjectHashTables data took   5.24ms
+[2021.12.22-22.53.59:560][783]LogSavePackage: Moving '../../../../Users/Pedro/Documents/GitHub/PacmanSi/PacmanCheems/Saved/ThirdPersonExampleMap4E4CB1554062EA0D07EB0EA9E656F8C8.tmp' to '../../../../Users/Pedro/Documents/GitHub/PacmanSi/PacmanCheems/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.12.22-22.54.00:772][783]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2021.12.22-22.54.00:772][783]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.12.22-22.54.10:251][887]LogSlate: Window 'Save Level As' being destroyed
+[2021.12.22-22.54.36:288][495]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2021.12.22-22.54.55:772][414]LogHttp: Warning: 0000026F7D1AC800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCBCEE1F7-4D3A-9587-F8F3-2881B15788EE%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=cbd04927413aecbd1995b9a0b7a71a34%7Ca39517de78ce42c2ac0e6e8367c11fab%7C23995fb5-29d8-407a-9025-c6570955009e&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2021.12.22-22.54.55:772][414]LogHttp: Warning: 0000026F7D1AC800: request failed, libcurl error: 0 (No error)
+[2021.12.22-22.54.55:773][414]LogHttp: Warning: 0000026F7D1AC800: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x26f3476ff70 [can pipeline])
+[2021.12.22-22.54.55:773][414]LogHttp: Warning: 0000026F7D1AC800: libcurl info message cache 1 (Re-using existing connection! (#44) with host datarouter.ol.epicgames.com)
+[2021.12.22-22.54.55:773][414]LogHttp: Warning: 0000026F7D1AC800: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.175.3.1) port 443 (#44))
+[2021.12.22-22.54.55:773][414]LogHttp: Warning: 0000026F7D1AC800: libcurl info message cache 3 (We are completely uploaded and fine)
+[2021.12.22-22.54.55:773][414]LogHttp: Warning: 0000026F7D1AC800: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2021.12.22-22.54.55:773][414]LogHttp: Warning: 0000026F7D1AC800: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2021.12.22-22.54.55:773][414]LogHttp: Warning: 0000026F7D1AC800: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2021.12.22-22.54.55:773][414]LogHttp: Warning: 0000026F7D1AC800: libcurl info message cache 7 (Closing connection 44)
+[2021.12.22-22.54.55:773][414]LogHttp: Warning: 0000026F7D1AC800: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2021.12.22-22.54.55:773][414]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCBCEE1F7-4D3A-9587-F8F3-2881B15788EE%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=cbd04927413aecbd1995b9a0b7a71a34%7Ca39517de78ce42c2ac0e6e8367c11fab%7C23995fb5-29d8-407a-9025-c6570955009e&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2021.12.22-22.55.12:988][209]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2021.12.22-22.55.25:177][209]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.12.22-22.55.25:177][209]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.22-22.56.48:370][209]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.12.22-22.56.48:371][209]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.22-22.56.51:761][209]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.12.22-22.56.51:761][209]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.22-22.57.20:092][209]LogSlate: Window 'PacmanCheems - Unreal Editor' being destroyed
+[2021.12.22-22.58.56:111][210]Cmd: QUIT_EDITOR
+[2021.12.22-22.58.56:235][210]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.12.22-22.58.58:981][210]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.12.22-22.59.12:157][210]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.12.22-22.59.16:738][210]LogExit: Preparing to exit.
+[2021.12.22-23.00.00:267][210]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.12.22-23.00.00:622][210]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2021.12.22-23.00.00:647][210]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.12.22-23.00.00:651][210]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.12.22-23.00.00:778][210]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.12.22-23.00.00:802][210]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.12.22-23.00.00:802][210]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.12.22-23.00.00:802][210]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.12.22-23.00.00:802][210]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.12.22-23.00.00:802][210]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.12.22-23.00.00:802][210]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.12.22-23.00.00:802][210]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.12.22-23.00.00:802][210]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.12.22-23.00.43:962][210]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.12.22-23.02.07:826][210]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.12.22-23.02.09:846][210]LogExit: Editor shut down
+[2021.12.22-23.02.22:832][210]LogExit: Transaction tracking system shut down
