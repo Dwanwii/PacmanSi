@@ -1507,3 +1507,1067 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.12.23-00.15.09:520][ 31]LogFileHelpers: Saving map 'MapDani' took 0.057
 [2021.12.23-00.15.09:529][ 31]AssetCheck: New page: Asset Save: MapDani
 [2021.12.23-00.15.09:529][ 31]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/MapDani.MapDani
+[2021.12.23-00.16.42:297][ 91]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.12.23-00.16.51:103][135]LogEditorViewport: Clicking on Actor (LMB): BP_Pelotitas_C (BP_Pelotitas33)
+[2021.12.23-00.16.53:216][386]LogEditorViewport: Clicking on Actor (LMB): BP_Pelotitas_C (BP_Pelotitas32)
+[2021.12.23-00.16.54:092][489]Cmd: EDIT COPY
+[2021.12.23-00.16.56:211][743]LogEditorViewport: Clicking on Actor (LMB): BP_Pelotitas_C (BP_Pelotitas33)
+[2021.12.23-00.16.56:947][829]Cmd: EDIT COPY
+[2021.12.23-00.16.57:396][883]Cmd: EDIT PASTE
+[2021.12.23-00.17.04:799][767]LogEditorViewport: Clicking on Actor (LMB): BP_Pelotitas_C (BP_Pelotitas33)
+[2021.12.23-00.17.05:650][867]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas34)
+[2021.12.23-00.17.06:276][940]Cmd: EDIT COPY
+[2021.12.23-00.17.06:484][965]Cmd: EDIT PASTE
+[2021.12.23-00.17.16:096][113]LogEditorViewport: Clicking on Actor (LMB): BP_Pelotitas_C (BP_Pelotitas36)
+[2021.12.23-00.17.25:997][295]LogEditorViewport: Clicking on Actor (LMB): BP_Pelotitas_C (BP_Pelotitas35)
+[2021.12.23-00.17.26:966][409]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas36)
+[2021.12.23-00.17.27:751][501]Cmd: EDIT COPY
+[2021.12.23-00.17.27:973][527]Cmd: EDIT PASTE
+[2021.12.23-00.17.42:275][231]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2021.12.23-00.17.43:351][231]LogSlate: Window 'Save Content' being destroyed
+[2021.12.23-00.17.43:385][231]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.12.23-00.17.43:410][231]LogSavePackage: Moving '../../../../../../Users/Macarena/Documents/Unreal Projects/PacmanSi/PacmanCheems/Saved/MapDani894E0739485A61C25ACFE59DDB82A867.tmp' to '../../../../../../Users/Macarena/Documents/Unreal Projects/PacmanSi/PacmanCheems/Content/ThirdPersonBP/Maps/MapDani.umap'
+[2021.12.23-00.17.43:424][231]LogFileHelpers: Saving map 'MapDani' took 0.055
+[2021.12.23-00.17.43:433][231]AssetCheck: New page: Asset Save: MapDani
+[2021.12.23-00.17.43:433][231]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/MapDani.MapDani
+[2021.12.23-00.17.51:985][977]LogEditorViewport: Clicking on Actor (LMB): BP_Pelotitas_C (BP_Pelotitas32)
+[2021.12.23-00.17.54:737][301]Cmd: EDIT COPY
+[2021.12.23-00.17.54:996][332]Cmd: EDIT PASTE
+[2021.12.23-00.18.05:673][606]LogEditorViewport: Clicking on Actor (LMB): BP_Pelotitas_C (BP_Pelotitas37)
+[2021.12.23-00.18.06:508][704]Cmd: EDIT COPY
+[2021.12.23-00.18.06:736][731]Cmd: EDIT PASTE
+[2021.12.23-00.18.14:827][696]LogEditorViewport: Clicking Background
+[2021.12.23-00.18.16:110][849]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall11)
+[2021.12.23-00.18.16:463][888]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall11)
+[2021.12.23-00.18.20:828][406]LogEditorViewport: Clicking on Actor (LMB): BP_Pelotitas_C (BP_Pelotitas42)
+[2021.12.23-00.18.27:627][216]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2021.12.23-00.18.39:610][642]LogEditorViewport: Clicking on Actor (LMB): BP_Pelotitas_C (BP_Pelotitas28)
+[2021.12.23-00.18.42:099][933]Cmd: EDIT COPY
+[2021.12.23-00.18.42:342][962]Cmd: EDIT PASTE
+[2021.12.23-00.19.07:940][ 13]LogEditorViewport: Clicking on Actor (LMB): BP_Pelotitas_C (BP_Pelotitas37)
+[2021.12.23-00.19.09:502][197]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas36)
+[2021.12.23-00.19.10:454][309]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas35)
+[2021.12.23-00.19.11:616][445]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas34)
+[2021.12.23-00.19.12:333][529]Cmd: EDIT COPY
+[2021.12.23-00.19.12:566][557]Cmd: EDIT PASTE
+[2021.12.23-00.19.28:727][485]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.23-00.19.28:735][485]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.23-00.19.28:735][485]PIE: New page: PIE session: MapDani (22-12-2021 18:19:28)
+[2021.12.23-00.19.28:735][485]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_MapDani
+[2021.12.23-00.19.28:745][485]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009378s)
+[2021.12.23-00.19.28:745][485]LogAIModule: Creating AISystem for world MapDani
+[2021.12.23-00.19.28:745][485]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001190EF97E00), frame # 94485
+[2021.12.23-00.19.28:745][485]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000011913E7DF80), frame # 94485
+[2021.12.23-00.19.28:745][485]LogPlayLevel: PIE: World Init took: (0.000848s)
+[2021.12.23-00.19.28:745][485]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/MapDani.MapDani to /Game/ThirdPersonBP/Maps/UEDPIE_0_MapDani.MapDani (0.010303s)
+[2021.12.23-00.19.28:767][485]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2021.12.23-00.19.28:768][485]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.23-00.19.28:768][485]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.23-00.19.28:768][485]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.23-00.19.28:768][485]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.23-00.19.28:768][485]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.23-00.19.28:768][485]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.23-00.19.28:768][485]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.23-00.19.28:768][485]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.23-00.19.28:769][485]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.23-00.19.28:769][485]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.23-00.19.28:772][485]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.23-00.19.28:772][485]LogAudioMixer: Display: 1: FrontRight
+[2021.12.23-00.19.28:772][485]LogAudioMixer: Display: 2: FrontCenter
+[2021.12.23-00.19.28:772][485]LogAudioMixer: Display: 3: LowFrequency
+[2021.12.23-00.19.28:772][485]LogAudioMixer: Display: 4: BackLeft
+[2021.12.23-00.19.28:772][485]LogAudioMixer: Display: 5: BackRight
+[2021.12.23-00.19.28:772][485]LogAudioMixer: Display: 6: SideLeft
+[2021.12.23-00.19.28:772][485]LogAudioMixer: Display: 7: SideRight
+[2021.12.23-00.19.28:786][485]LogAudioMixer: Display: Using Audio Device Altavoces (Logitech G733 Gaming Headset)
+[2021.12.23-00.19.28:786][485]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.23-00.19.28:786][485]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.23-00.19.28:786][485]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.23-00.19.28:786][485]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.23-00.19.28:796][485]LogInit: FAudioDevice initialized.
+[2021.12.23-00.19.28:803][485]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.12.23-00.19.28:805][485]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_MapDani.MapDani up for play (max tick rate 0) at 2021.12.22-21.19.28
+[2021.12.23-00.19.28:805][485]LogWorld: Bringing up level for play took: 0.001630
+[2021.12.23-00.19.28:805][485]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2021.12.23-00.19.28:806][485]PIE: Server logged in
+[2021.12.23-00.19.28:807][485]PIE: Play in editor total start time 0,073 seconds.
+[2021.12.23-00.19.30:786][720]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10
+[2021.12.23-00.19.31:602][818]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 20
+[2021.12.23-00.19.31:611][819]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 30
+[2021.12.23-00.19.32:045][871]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 40
+[2021.12.23-00.19.32:053][872]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 50
+[2021.12.23-00.19.32:536][930]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 60
+[2021.12.23-00.19.33:111][999]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 70
+[2021.12.23-00.19.33:111][999]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 80
+[2021.12.23-00.19.33:420][ 36]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 90
+[2021.12.23-00.19.33:453][ 40]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 100
+[2021.12.23-00.19.33:727][ 73]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 110
+[2021.12.23-00.19.33:744][ 75]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 120
+[2021.12.23-00.19.33:769][ 78]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 130
+[2021.12.23-00.19.33:802][ 82]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 140
+[2021.12.23-00.19.33:853][ 88]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 150
+[2021.12.23-00.19.34:644][183]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 160
+[2021.12.23-00.19.34:644][183]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 170
+[2021.12.23-00.19.34:677][187]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 180
+[2021.12.23-00.19.34:694][189]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 190
+[2021.12.23-00.19.34:711][191]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 200
+[2021.12.23-00.19.34:744][195]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 210
+[2021.12.23-00.19.34:744][195]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 220
+[2021.12.23-00.19.34:770][198]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 230
+[2021.12.23-00.19.34:795][201]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 240
+[2021.12.23-00.19.34:961][221]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 250
+[2021.12.23-00.19.34:995][225]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 260
+[2021.12.23-00.19.35:028][229]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 270
+[2021.12.23-00.19.35:044][231]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 280
+[2021.12.23-00.19.35:211][251]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 290
+[2021.12.23-00.19.35:211][251]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 300
+[2021.12.23-00.19.35:862][329]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 310
+[2021.12.23-00.19.35:878][331]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 320
+[2021.12.23-00.19.36:878][451]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 330
+[2021.12.23-00.19.36:903][454]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 340
+[2021.12.23-00.19.36:911][455]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 350
+[2021.12.23-00.19.37:020][468]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 360
+[2021.12.23-00.19.37:278][499]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Power
+[2021.12.23-00.19.37:503][526]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 410
+[2021.12.23-00.19.38:027][589]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 420
+[2021.12.23-00.19.39:103][718]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 430
+[2021.12.23-00.19.41:336][986]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 440
+[2021.12.23-00.19.42:428][117]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 450
+[2021.12.23-00.19.42:470][122]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 460
+[2021.12.23-00.19.46:037][550]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 470
+[2021.12.23-00.19.49:550][967]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.23-00.19.49:550][967]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_MapDani
+[2021.12.23-00.19.49:550][967]LogWorld: UWorld::CleanupWorld for MapDani, bSessionEnded=true, bCleanupResources=true
+[2021.12.23-00.19.49:551][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.23-00.19.49:559][967]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.23-00.19.49:561][967]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.23-00.19.49:587][967]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.23-00.19.49:588][967]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000011913E7DF80), frame # 96967
+[2021.12.23-00.19.49:588][967]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001190EF97E00), frame # 96967
+[2021.12.23-00.19.49:590][967]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2021.12.23-00.19.49:672][969]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.12.23-00.19.55:603][680]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.12.23-00.20.56:632][995]LogEditorViewport: Clicking on Actor (LMB): BP_Pelotitas_C (BP_Pelotitas33)
+[2021.12.23-00.21.03:164][765]Cmd: EDIT COPY
+[2021.12.23-00.21.06:030][106]Cmd: TRANSACTION UNDO
+[2021.12.23-00.21.06:030][106]LogEditorTransaction: Undo Move Actors
+[2021.12.23-00.21.06:928][180]Cmd: EDIT COPY
+[2021.12.23-00.21.07:180][210]Cmd: EDIT PASTE
+[2021.12.23-00.21.21:138][874]LogEditorViewport: Clicking on Actor (LMB): BP_Pelotitas_C (BP_Pelotitas41)
+[2021.12.23-00.21.22:174][996]LogEditorViewport: Clicking on Actor (LMB): BP_Pelotitas_C (BP_Pelotitas45)
+[2021.12.23-00.21.25:934][442]Cmd: EDIT COPY
+[2021.12.23-00.21.26:178][471]Cmd: EDIT PASTE
+[2021.12.23-00.21.51:140][452]LogEditorViewport: Clicking on Actor (LMB): BP_Pelotitas_C (BP_Pelotitas46)
+[2021.12.23-00.21.51:818][531]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas47)
+[2021.12.23-00.21.52:538][615]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas48)
+[2021.12.23-00.21.53:181][690]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas49)
+[2021.12.23-00.21.53:860][769]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas43)
+[2021.12.23-00.21.54:796][879]Cmd: EDIT COPY
+[2021.12.23-00.21.55:060][910]Cmd: EDIT PASTE
+[2021.12.23-00.22.09:467][629]LogEditorViewport: Clicking on Actor (LMB): BP_Pelotitas_C (BP_Pelotitas8)
+[2021.12.23-00.22.22:720][211]LogEditorViewport: Clicking on Actor (LMB): BP_Pelotitas_C (BP_Pelotitas58)
+[2021.12.23-00.22.24:099][374]Cmd: EDIT COPY
+[2021.12.23-00.22.24:309][399]Cmd: EDIT PASTE
+[2021.12.23-00.22.37:102][926]LogEditorViewport: Clicking on Actor (LMB): BP_PowerUp_C (BP_PowerUp)
+[2021.12.23-00.22.55:272][ 94]Cmd: EDIT COPY
+[2021.12.23-00.22.55:525][124]Cmd: EDIT PASTE
+[2021.12.23-00.23.12:559][159]LogEditorViewport: Clicking on Actor (LMB): BP_Pelotitas_C (BP_Pelotitas59)
+[2021.12.23-00.23.13:215][235]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas60)
+[2021.12.23-00.23.14:109][340]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas61)
+[2021.12.23-00.23.15:787][538]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas62)
+[2021.12.23-00.23.16:705][646]Cmd: EDIT COPY
+[2021.12.23-00.23.16:921][672]Cmd: EDIT PASTE
+[2021.12.23-00.23.33:514][653]LogEditorViewport: Clicking on Actor (LMB): BP_Pelotitas_C (BP_Pelotitas11)
+[2021.12.23-00.23.34:425][760]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas12)
+[2021.12.23-00.23.35:317][865]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas13)
+[2021.12.23-00.23.36:102][957]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas14)
+[2021.12.23-00.23.37:077][ 72]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas15)
+[2021.12.23-00.23.37:830][160]Cmd: EDIT COPY
+[2021.12.23-00.23.38:073][189]Cmd: EDIT PASTE
+[2021.12.23-00.23.46:724][214]LogEditorViewport: Clicking on Actor (LMB): BP_Pelotitas_C (BP_Pelotitas64)
+[2021.12.23-00.23.47:438][297]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas65)
+[2021.12.23-00.23.48:007][363]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas66)
+[2021.12.23-00.23.48:658][439]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas67)
+[2021.12.23-00.23.49:335][518]Cmd: EDIT COPY
+[2021.12.23-00.23.49:536][542]Cmd: EDIT PASTE
+[2021.12.23-00.24.19:837][256]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.12.23-00.24.20:284][306]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.12.23-00.24.33:894][929]LogEditorViewport: Clicking on Actor (LMB): BP_Pelotitas_C (BP_Pelotitas58)
+[2021.12.23-00.24.44:582][192]Cmd: EDIT COPY
+[2021.12.23-00.24.44:792][217]Cmd: EDIT PASTE
+[2021.12.23-00.25.05:715][710]LogEditorViewport: Clicking on Actor (LMB): BP_Pelotitas_C (BP_Pelotitas62)
+[2021.12.23-00.25.06:277][775]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas61)
+[2021.12.23-00.25.06:828][839]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas60)
+[2021.12.23-00.25.07:455][912]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas59)
+[2021.12.23-00.25.09:140][112]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas8)
+[2021.12.23-00.25.12:167][473]Cmd: EDIT COPY
+[2021.12.23-00.25.12:400][501]Cmd: EDIT PASTE
+[2021.12.23-00.25.38:616][624]LogEditorViewport: Clicking on Actor (LMB): BP_Pelotitas_C (BP_Pelotitas64)
+[2021.12.23-00.25.40:405][836]LogEditorViewport: Clicking on Actor (LMB): BP_Pelotitas_C (BP_Pelotitas9)
+[2021.12.23-00.26.05:246][757]Cmd: EDIT COPY
+[2021.12.23-00.26.05:516][789]Cmd: EDIT PASTE
+[2021.12.23-00.26.23:098][818]LogEditorViewport: Clicking on Actor (LMB): BP_Pelotitas_C (BP_Pelotitas64)
+[2021.12.23-00.26.23:848][905]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas65)
+[2021.12.23-00.26.24:507][982]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas66)
+[2021.12.23-00.26.25:128][ 54]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas67)
+[2021.12.23-00.26.25:972][153]Cmd: EDIT COPY
+[2021.12.23-00.26.26:244][185]Cmd: EDIT PASTE
+[2021.12.23-00.26.38:629][660]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.12.23-00.26.39:201][725]LogEditorViewport: Clicking on Actor (LMB): BP_Pelotitas_C (BP_Pelotitas73)
+[2021.12.23-00.26.39:800][794]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas74)
+[2021.12.23-00.26.40:521][878]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas75)
+[2021.12.23-00.26.41:047][939]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas72)
+[2021.12.23-00.26.42:629][124]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas76)
+[2021.12.23-00.26.43:389][213]Cmd: EDIT COPY
+[2021.12.23-00.26.43:641][243]Cmd: EDIT PASTE
+[2021.12.23-00.26.59:494][135]LogEditorViewport: Clicking on Actor (LMB): BP_Pelotitas_C (BP_Pelotitas46)
+[2021.12.23-00.27.00:883][299]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas47)
+[2021.12.23-00.27.01:661][390]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas48)
+[2021.12.23-00.27.02:314][466]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas49)
+[2021.12.23-00.27.02:842][527]LogEditorViewport: Clicking on Actor (LMB): BP_Pelotitas_C (BP_Pelotitas43)
+[2021.12.23-00.27.03:628][619]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas44)
+[2021.12.23-00.27.04:683][742]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas45)
+[2021.12.23-00.27.05:293][813]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_PowerUp_C (BP_PowerUp2)
+[2021.12.23-00.27.06:231][923]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas38)
+[2021.12.23-00.27.06:717][979]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas56)
+[2021.12.23-00.27.07:338][ 51]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas57)
+[2021.12.23-00.27.07:906][117]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas55)
+[2021.12.23-00.27.09:382][292]Cmd: EDIT COPY
+[2021.12.23-00.27.09:635][322]Cmd: EDIT PASTE
+[2021.12.23-00.27.33:956][217]Cmd: EDIT COPY
+[2021.12.23-00.27.34:193][245]Cmd: EDIT PASTE
+[2021.12.23-00.27.46:038][647]LogEditorViewport: Clicking on Actor (LMB): BP_Pelotitas_C (BP_Pelotitas54)
+[2021.12.23-00.27.47:466][816]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas53)
+[2021.12.23-00.27.48:301][914]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas52)
+[2021.12.23-00.27.48:869][980]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas51)
+[2021.12.23-00.27.49:447][ 47]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas50)
+[2021.12.23-00.27.51:472][288]Cmd: EDIT COPY
+[2021.12.23-00.27.51:743][320]Cmd: EDIT PASTE
+[2021.12.23-00.28.10:928][609]LogEditorViewport: Clicking on Actor (LMB): BP_Pelotitas_C (BP_Pelotitas34)
+[2021.12.23-00.28.11:827][714]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas35)
+[2021.12.23-00.28.12:456][787]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas36)
+[2021.12.23-00.28.12:967][846]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas37)
+[2021.12.23-00.28.13:792][943]Cmd: EDIT COPY
+[2021.12.23-00.28.14:071][976]Cmd: EDIT PASTE
+[2021.12.23-00.28.32:238][142]LogEditorViewport: Clicking on Actor (LMB): BP_Pelotitas_C (BP_Pelotitas42)
+[2021.12.23-00.28.37:729][798]Cmd: EDIT COPY
+[2021.12.23-00.28.37:998][830]Cmd: EDIT PASTE
+[2021.12.23-00.28.52:326][540]LogEditorViewport: Clicking on Actor (LMB): BP_Pelotitas_C (BP_Pelotitas39)
+[2021.12.23-00.28.54:757][825]Cmd: EDIT COPY
+[2021.12.23-00.28.54:968][850]Cmd: EDIT PASTE
+[2021.12.23-00.29.12:336][764]LogEditorViewport: Clicking on Actor (LMB): BP_Pelotitas_C (BP_Pelotitas46)
+[2021.12.23-00.29.13:075][850]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas47)
+[2021.12.23-00.29.13:554][905]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas48)
+[2021.12.23-00.29.14:098][968]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas49)
+[2021.12.23-00.29.14:766][ 46]Cmd: EDIT COPY
+[2021.12.23-00.29.14:983][ 71]Cmd: EDIT PASTE
+[2021.12.23-00.29.26:689][457]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2021.12.23-00.29.26:748][457]LogSavePackage: Moving '../../../../../../Users/Macarena/Documents/Unreal Projects/PacmanSi/PacmanCheems/Saved/MapDaniD70C43CD4F599CA3C191C7896DAB2B93.tmp' to '../../../../../../Users/Macarena/Documents/Unreal Projects/PacmanSi/PacmanCheems/Content/ThirdPersonBP/Maps/MapDani.umap'
+[2021.12.23-00.29.26:774][457]AssetCheck: New page: Asset Save: MapDani
+[2021.12.23-00.29.26:774][457]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/MapDani.MapDani
+[2021.12.23-00.29.27:297][515]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2021.12.23-00.29.40:404][ 85]LogEditorViewport: Clicking on Actor (LMB): BP_Pelotitas_C (BP_Pelotitas133)
+[2021.12.23-00.29.41:098][166]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas132)
+[2021.12.23-00.29.41:661][231]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas131)
+[2021.12.23-00.29.42:379][315]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas130)
+[2021.12.23-00.29.43:098][399]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas129)
+[2021.12.23-00.29.43:681][467]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas55)
+[2021.12.23-00.29.44:751][593]Cmd: EDIT COPY
+[2021.12.23-00.29.45:011][624]Cmd: EDIT PASTE
+[2021.12.23-00.29.57:883][156]Cmd: EDIT COPY
+[2021.12.23-00.29.58:159][189]Cmd: EDIT PASTE
+[2021.12.23-00.30.10:224][627]LogEditorViewport: Clicking on Actor (LMB): BP_Pelotitas_C (BP_Pelotitas50)
+[2021.12.23-00.30.11:177][739]LogEditorViewport: Clicking on Actor (LMB): BP_Pelotitas_C (BP_Pelotitas157)
+[2021.12.23-00.30.11:789][810]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas156)
+[2021.12.23-00.30.14:335][113]Cmd: EDIT COPY
+[2021.12.23-00.30.14:587][143]Cmd: EDIT PASTE
+[2021.12.23-00.30.41:491][336]Cmd: EDIT COPY
+[2021.12.23-00.30.41:816][374]Cmd: EDIT PASTE
+[2021.12.23-00.30.56:848][794]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.12.23-00.30.59:807][145]Cmd: TRANSACTION UNDO
+[2021.12.23-00.30.59:807][145]LogEditorTransaction: Undo Clicking on Actors
+[2021.12.23-00.31.38:259][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2021.12.23-00.31.39:796][ 68]LogSlate: Window 'Save Content' being destroyed
+[2021.12.23-00.31.39:832][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.12.23-00.31.39:892][ 68]LogSavePackage: Moving '../../../../../../Users/Macarena/Documents/Unreal Projects/PacmanSi/PacmanCheems/Saved/MapDani5A2C11524B8A1498F05A9F8C08DB9C6A.tmp' to '../../../../../../Users/Macarena/Documents/Unreal Projects/PacmanSi/PacmanCheems/Content/ThirdPersonBP/Maps/MapDani.umap'
+[2021.12.23-00.31.39:905][ 68]LogFileHelpers: Saving map 'MapDani' took 0.090
+[2021.12.23-00.31.39:914][ 68]AssetCheck: New page: Asset Save: MapDani
+[2021.12.23-00.31.39:914][ 68]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/MapDani.MapDani
+[2021.12.23-00.31.46:693][879]LogTemp: Repeating last play command: Selected Viewport
+[2021.12.23-00.31.46:701][879]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.12.23-00.31.46:701][879]PIE: New page: PIE session: MapDani (22-12-2021 18:31:46)
+[2021.12.23-00.31.46:739][879]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_MapDani
+[2021.12.23-00.31.46:756][879]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016568s)
+[2021.12.23-00.31.46:757][879]LogAIModule: Creating AISystem for world MapDani
+[2021.12.23-00.31.46:757][879]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000011913FFBE00), frame # 178879
+[2021.12.23-00.31.46:757][879]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001190FF87240), frame # 178879
+[2021.12.23-00.31.46:757][879]LogPlayLevel: PIE: World Init took: (0.000861s)
+[2021.12.23-00.31.46:757][879]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/MapDani.MapDani to /Game/ThirdPersonBP/Maps/UEDPIE_0_MapDani.MapDani (0.017556s)
+[2021.12.23-00.31.46:774][879]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2021.12.23-00.31.46:777][879]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.12.23-00.31.46:777][879]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.12.23-00.31.46:777][879]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.12.23-00.31.46:777][879]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.12.23-00.31.46:777][879]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.12.23-00.31.46:777][879]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.12.23-00.31.46:777][879]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.12.23-00.31.46:777][879]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.12.23-00.31.46:777][879]LogAudio: Display: Using built-in audio occlusion.
+[2021.12.23-00.31.46:777][879]LogAudioMixer: Display: Initializing audio mixer.
+[2021.12.23-00.31.46:780][879]LogAudioMixer: Display: 0: FrontLeft
+[2021.12.23-00.31.46:780][879]LogAudioMixer: Display: 1: FrontRight
+[2021.12.23-00.31.46:780][879]LogAudioMixer: Display: 2: FrontCenter
+[2021.12.23-00.31.46:780][879]LogAudioMixer: Display: 3: LowFrequency
+[2021.12.23-00.31.46:780][879]LogAudioMixer: Display: 4: BackLeft
+[2021.12.23-00.31.46:780][879]LogAudioMixer: Display: 5: BackRight
+[2021.12.23-00.31.46:780][879]LogAudioMixer: Display: 6: SideLeft
+[2021.12.23-00.31.46:780][879]LogAudioMixer: Display: 7: SideRight
+[2021.12.23-00.31.46:794][879]LogAudioMixer: Display: Using Audio Device Altavoces (Logitech G733 Gaming Headset)
+[2021.12.23-00.31.46:794][879]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.12.23-00.31.46:794][879]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.12.23-00.31.46:794][879]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.12.23-00.31.46:794][879]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.12.23-00.31.46:803][879]LogInit: FAudioDevice initialized.
+[2021.12.23-00.31.46:814][879]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.12.23-00.31.46:819][879]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_MapDani.MapDani up for play (max tick rate 0) at 2021.12.22-21.31.46
+[2021.12.23-00.31.46:819][879]LogWorld: Bringing up level for play took: 0.004894
+[2021.12.23-00.31.46:819][879]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2021.12.23-00.31.46:821][879]PIE: Server logged in
+[2021.12.23-00.31.46:822][879]PIE: Play in editor total start time 0,122 seconds.
+[2021.12.23-00.31.47:239][926]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 10
+[2021.12.23-00.31.47:239][926]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 20
+[2021.12.23-00.31.49:014][139]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 30
+[2021.12.23-00.31.49:023][140]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 40
+[2021.12.23-00.31.50:706][342]LogBlueprintUserMessages: [ThirdPersonCharacter_167] 50
+[2021.12.23-00.31.51:840][475]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.23-00.31.51:840][475]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_MapDani
+[2021.12.23-00.31.51:840][475]LogWorld: UWorld::CleanupWorld for MapDani, bSessionEnded=true, bCleanupResources=true
+[2021.12.23-00.31.51:841][475]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.23-00.31.51:851][475]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.23-00.31.51:853][475]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.23-00.31.51:868][475]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.12.23-00.31.51:880][475]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001190FF87240), frame # 179475
+[2021.12.23-00.31.51:880][475]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000011913FFBE00), frame # 179475
+[2021.12.23-00.31.51:882][475]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2021.12.23-00.31.51:965][477]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2021.12.23-00.32.34:142][233]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2021.12.23-00.32.44:694][498]LogEditorViewport: Clicking on Actor (LMB): BP_Pelotitas_C (BP_Pelotitas9)
+[2021.12.23-00.32.45:906][641]LogEditorViewport: Clicking on Actor (LMB): BP_Pelotitas_C (BP_Pelotitas8)
+[2021.12.23-00.32.49:592][ 74]Cmd: EDIT COPY
+[2021.12.23-00.32.49:902][111]Cmd: EDIT PASTE
+[2021.12.23-00.33.03:795][768]LogEditorViewport: Clicking on Actor (LMB): BP_Pelotitas_C (BP_Pelotitas59)
+[2021.12.23-00.33.04:773][883]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas60)
+[2021.12.23-00.33.08:075][277]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas61)
+[2021.12.23-00.33.09:499][444]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas62)
+[2021.12.23-00.33.10:435][554]Cmd: EDIT COPY
+[2021.12.23-00.33.10:682][583]Cmd: EDIT PASTE
+[2021.12.23-00.33.13:801][953]Cmd: TRANSACTION UNDO
+[2021.12.23-00.33.13:801][953]LogEditorTransaction: Undo Move Actors
+[2021.12.23-00.33.14:456][999]Cmd: TRANSACTION UNDO
+[2021.12.23-00.33.14:456][999]LogEditorTransaction: Undo Paste
+[2021.12.23-00.33.16:065][184]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas58)
+[2021.12.23-00.33.16:941][287]Cmd: EDIT COPY
+[2021.12.23-00.33.17:176][315]Cmd: EDIT PASTE
+[2021.12.23-00.33.41:098][170]Cmd: EDIT COPY
+[2021.12.23-00.33.41:343][199]Cmd: EDIT PASTE
+[2021.12.23-00.33.43:679][476]Cmd: TRANSACTION UNDO
+[2021.12.23-00.33.43:679][476]LogEditorTransaction: Undo Move Actors
+[2021.12.23-00.33.44:424][532]Cmd: EDIT COPY
+[2021.12.23-00.33.44:632][557]Cmd: EDIT PASTE
+[2021.12.23-00.33.55:670][868]LogEditorViewport: Clicking on Actor (LMB): BP_Pelotitas_C (BP_Pelotitas175)
+[2021.12.23-00.33.56:764][997]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas176)
+[2021.12.23-00.33.57:307][ 60]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas177)
+[2021.12.23-00.33.57:960][136]Cmd: EDIT COPY
+[2021.12.23-00.33.58:186][163]Cmd: EDIT PASTE
+[2021.12.23-00.34.15:475][229]LogEditorViewport: Clicking on Actor (LMB): BP_Pelotitas_C (BP_Pelotitas93)
+[2021.12.23-00.34.16:070][298]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas94)
+[2021.12.23-00.34.17:893][513]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas95)
+[2021.12.23-00.34.18:627][599]Cmd: EDIT COPY
+[2021.12.23-00.34.18:871][628]Cmd: EDIT PASTE
+[2021.12.23-00.34.27:740][686]LogEditorViewport: Clicking on Actor (LMB): BP_Pelotitas_C (BP_Pelotitas163)
+[2021.12.23-00.34.28:436][767]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas164)
+[2021.12.23-00.34.29:038][837]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas165)
+[2021.12.23-00.34.30:157][969]Cmd: EDIT COPY
+[2021.12.23-00.34.30:401][998]Cmd: EDIT PASTE
+[2021.12.23-00.34.37:698][868]Cmd: EDIT COPY
+[2021.12.23-00.34.37:924][895]Cmd: EDIT PASTE
+[2021.12.23-00.34.47:923][ 87]LogEditorViewport: Clicking on Actor (LMB): BP_Pelotitas_C (BP_Pelotitas192)
+[2021.12.23-00.34.48:521][156]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas193)
+[2021.12.23-00.34.49:106][224]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas194)
+[2021.12.23-00.34.49:933][321]Cmd: EDIT COPY
+[2021.12.23-00.34.50:186][351]Cmd: EDIT PASTE
+[2021.12.23-00.35.00:164][536]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2021.12.23-00.35.00:242][536]LogSavePackage: Moving '../../../../../../Users/Macarena/Documents/Unreal Projects/PacmanSi/PacmanCheems/Saved/MapDani89FA093741F1BF2CF0942884564AF016.tmp' to '../../../../../../Users/Macarena/Documents/Unreal Projects/PacmanSi/PacmanCheems/Content/ThirdPersonBP/Maps/MapDani.umap'
+[2021.12.23-00.35.00:264][536]AssetCheck: New page: Asset Save: MapDani
+[2021.12.23-00.35.00:264][536]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/MapDani.MapDani
+[2021.12.23-00.35.01:176][642]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2021.12.23-00.35.31:473][970]Cmd: DELETE
+[2021.12.23-00.35.31:473][970]Cmd: ACTOR DELETE
+[2021.12.23-00.35.31:478][970]LogEditorActor: Deleted Actor: NavMeshBoundsVolume
+[2021.12.23-00.35.31:495][970]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2021.12.23-00.35.31:498][970]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2021.12.23-00.35.31:500][970]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.35.34:374][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.12.23-00.35.36:845][309]LogSlate: Window 'Save Content' being destroyed
+[2021.12.23-00.35.36:882][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.12.23-00.35.36:950][309]LogSavePackage: Moving '../../../../../../Users/Macarena/Documents/Unreal Projects/PacmanSi/PacmanCheems/Saved/MapDani1A2C71184B20C82430795BA6E72B5DC8.tmp' to '../../../../../../Users/Macarena/Documents/Unreal Projects/PacmanSi/PacmanCheems/Content/ThirdPersonBP/Maps/MapDani.umap'
+[2021.12.23-00.35.36:964][309]LogFileHelpers: Saving map 'MapDani' took 0.098
+[2021.12.23-00.35.36:972][309]AssetCheck: New page: Asset Save: MapDani
+[2021.12.23-00.35.36:972][309]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/MapDani.MapDani
+[2021.12.23-00.36.06:891][407]LogEditorViewport: Clicking on Actor (LMB): BP_Pelotitas_C (BP_Pelotitas159)
+[2021.12.23-00.36.08:045][543]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas158)
+[2021.12.23-00.36.08:972][652]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas157)
+[2021.12.23-00.36.09:665][733]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas156)
+[2021.12.23-00.36.10:407][820]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas155)
+[2021.12.23-00.36.11:051][895]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas154)
+[2021.12.23-00.36.11:628][962]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas153)
+[2021.12.23-00.36.12:462][ 60]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas152)
+[2021.12.23-00.36.13:183][143]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.14:060][248]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas151)
+[2021.12.23-00.36.14:604][311]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas150)
+[2021.12.23-00.36.15:339][397]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas149)
+[2021.12.23-00.36.15:933][466]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas148)
+[2021.12.23-00.36.16:583][542]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas147)
+[2021.12.23-00.36.17:293][625]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas146)
+[2021.12.23-00.36.18:188][730]Cmd: EDIT CUT
+[2021.12.23-00.36.18:197][730]LogEditorActor: Deleted Actor: BP_Pelotitas_C
+[2021.12.23-00.36.18:197][730]LogEditorActor: Deleted Actor: BP_Pelotitas_C
+[2021.12.23-00.36.18:198][730]LogEditorActor: Deleted Actor: BP_Pelotitas_C
+[2021.12.23-00.36.18:198][730]LogEditorActor: Deleted Actor: BP_Pelotitas_C
+[2021.12.23-00.36.18:198][730]LogEditorActor: Deleted Actor: BP_Pelotitas_C
+[2021.12.23-00.36.18:199][730]LogEditorActor: Deleted Actor: BP_Pelotitas_C
+[2021.12.23-00.36.18:199][730]LogEditorActor: Deleted Actor: BP_Pelotitas_C
+[2021.12.23-00.36.18:199][730]LogEditorActor: Deleted Actor: BP_Pelotitas_C
+[2021.12.23-00.36.18:200][730]LogEditorActor: Deleted Actor: BP_Pelotitas_C
+[2021.12.23-00.36.18:200][730]LogEditorActor: Deleted Actor: BP_Pelotitas_C
+[2021.12.23-00.36.18:200][730]LogEditorActor: Deleted Actor: BP_Pelotitas_C
+[2021.12.23-00.36.18:201][730]LogEditorActor: Deleted Actor: BP_Pelotitas_C
+[2021.12.23-00.36.18:201][730]LogEditorActor: Deleted Actor: BP_Pelotitas_C
+[2021.12.23-00.36.18:201][730]LogEditorActor: Deleted Actor: BP_Pelotitas_C
+[2021.12.23-00.36.18:217][730]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2021.12.23-00.36.18:220][730]LogEditorActor: Deleted 14 Actors (0.028 secs)
+[2021.12.23-00.36.18:221][730]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.19:767][915]Cmd: TRANSACTION UNDO
+[2021.12.23-00.36.19:767][915]LogEditorTransaction: Undo Cut
+[2021.12.23-00.36.19:780][915]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.20:582][976]Cmd: EDIT COPY
+[2021.12.23-00.36.20:882][ 12]Cmd: EDIT PASTE
+[2021.12.23-00.36.20:925][ 12]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.22:363][183]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.22:375][184]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.22:389][185]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.22:403][186]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.22:416][187]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.22:429][188]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.22:442][189]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.22:456][190]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.22:470][191]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.22:484][192]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.22:497][193]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.22:511][194]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.22:523][195]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.22:537][196]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.22:549][197]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.22:562][198]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.22:575][199]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.22:588][200]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.22:601][201]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.22:614][202]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.22:627][203]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.22:639][204]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.22:652][205]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.22:666][206]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.22:679][207]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.22:691][208]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.22:704][209]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.22:717][210]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.22:730][211]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.22:860][226]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.22:881][228]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.22:893][229]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.22:906][230]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.22:919][231]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.23:470][295]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.27:722][803]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.27:819][814]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.28:189][858]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.28:536][899]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.28:866][938]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.29:281][986]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.31:339][231]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.12.23-00.36.32:135][322]LogEditorViewport: Clicking on Actor (LMB): BP_Pelotitas_C (BP_Pelotitas210)
+[2021.12.23-00.36.32:899][411]Cmd: DELETE
+[2021.12.23-00.36.32:899][411]Cmd: ACTOR DELETE
+[2021.12.23-00.36.32:905][411]LogEditorActor: Deleted Actor: BP_Pelotitas_C
+[2021.12.23-00.36.32:926][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2021.12.23-00.36.32:928][411]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2021.12.23-00.36.32:928][411]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.33:842][521]LogEditorViewport: Clicking on Actor (LMB): BP_Pelotitas_C (BP_Pelotitas211)
+[2021.12.23-00.36.34:069][546]Cmd: DELETE
+[2021.12.23-00.36.34:069][546]Cmd: ACTOR DELETE
+[2021.12.23-00.36.34:074][546]LogEditorActor: Deleted Actor: BP_Pelotitas_C
+[2021.12.23-00.36.34:091][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.12.23-00.36.34:092][546]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2021.12.23-00.36.34:092][546]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.40:488][313]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2021.12.23-00.36.42:299][524]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.42:307][525]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.42:316][526]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.42:324][527]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.42:332][528]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.42:340][529]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.42:349][530]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.42:357][531]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.42:365][532]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.42:374][533]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.42:383][534]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.42:391][535]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.42:399][536]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.42:408][537]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.42:416][538]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.42:424][539]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.42:433][540]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.42:441][541]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.42:458][543]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.42:466][544]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.42:474][545]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.42:483][546]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.42:491][547]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.42:499][548]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.42:507][549]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.42:516][550]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.42:524][551]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.42:532][552]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.42:541][553]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.42:557][555]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.42:574][557]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.42:583][558]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.42:600][560]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.42:608][561]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.42:617][562]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.42:625][563]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.42:633][564]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.42:642][565]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.42:650][566]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.42:658][567]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.42:675][569]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.42:683][570]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.42:700][572]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.42:708][573]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.42:725][575]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.42:833][588]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.42:875][593]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.42:883][594]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.42:916][598]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.42:933][600]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.42:958][603]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.43:066][616]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.43:158][627]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.43:199][632]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.43:316][646]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.43:424][659]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.43:457][663]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.43:616][682]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.43:650][686]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.43:666][688]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.43:683][690]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.43:699][692]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.43:716][694]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.43:749][698]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.44:016][730]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.44:933][839]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.47:587][156]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.12.23-00.36.51:685][642]LogEditorViewport: Clicking on Actor (LMB): BP_Pelotitas_C (BP_Pelotitas217)
+[2021.12.23-00.36.54:891][ 24]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas216)
+[2021.12.23-00.36.55:434][ 87]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas215)
+[2021.12.23-00.36.55:919][143]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas214)
+[2021.12.23-00.36.56:421][201]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas213)
+[2021.12.23-00.36.56:873][253]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas212)
+[2021.12.23-00.36.58:119][400]Cmd: EDIT COPY
+[2021.12.23-00.36.58:410][434]Cmd: EDIT PASTE
+[2021.12.23-00.36.58:432][434]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.59:720][587]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.59:728][588]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.59:745][590]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.59:753][591]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.59:762][592]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.59:779][594]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.59:788][595]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.59:796][596]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.59:813][598]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.59:822][599]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.59:830][600]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.59:847][602]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.59:855][603]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.59:872][605]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.59:888][607]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.59:905][609]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.59:913][610]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.59:930][612]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.59:955][615]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.59:963][616]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.59:980][618]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.36.59:997][620]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.00:013][622]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.00:031][624]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.00:098][632]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.00:133][636]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.00:149][638]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.00:182][642]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.00:199][644]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.00:215][646]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.00:249][650]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.00:282][654]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.00:741][709]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.00:994][738]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.15:816][513]LogEditorViewport: Clicking on Actor (LMB): BP_Pelotitas_C (BP_Pelotitas204)
+[2021.12.23-00.37.16:522][595]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas205)
+[2021.12.23-00.37.17:142][667]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas206)
+[2021.12.23-00.37.17:672][728]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas207)
+[2021.12.23-00.37.18:167][785]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas208)
+[2021.12.23-00.37.18:638][839]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas209)
+[2021.12.23-00.37.19:440][933]Cmd: EDIT COPY
+[2021.12.23-00.37.19:701][964]Cmd: EDIT PASTE
+[2021.12.23-00.37.19:723][964]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.20:777][ 89]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.20:794][ 91]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.20:802][ 92]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.20:810][ 93]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.20:827][ 95]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.20:835][ 96]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.20:861][ 99]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.20:870][100]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.20:887][102]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.20:896][103]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.20:904][104]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.20:913][105]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.20:921][106]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.20:929][107]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.20:938][108]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.20:946][109]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.20:954][110]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.20:963][111]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.20:971][112]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.20:979][113]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.20:989][114]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.20:999][115]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.21:008][116]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.21:017][117]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.21:025][118]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.21:033][119]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.21:042][120]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.21:058][122]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.21:066][123]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.21:636][190]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.27:515][894]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.27:810][928]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.35:449][841]LogEditorViewport: Clicking on Actor (LMB): BP_Pelotitas_C (BP_Pelotitas215)
+[2021.12.23-00.37.36:596][976]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas214)
+[2021.12.23-00.37.37:147][ 40]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas213)
+[2021.12.23-00.37.37:640][ 97]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas212)
+[2021.12.23-00.37.38:474][195]Cmd: EDIT COPY
+[2021.12.23-00.37.38:801][234]Cmd: EDIT PASTE
+[2021.12.23-00.37.38:818][234]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.39:955][369]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.39:963][370]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.39:971][371]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.39:980][372]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.39:988][373]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.39:997][374]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.40:005][375]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.40:013][376]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.40:021][377]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.40:030][378]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.40:038][379]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.40:047][380]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.40:055][381]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.40:063][382]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.40:071][383]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.40:080][384]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.40:088][385]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.40:096][386]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.40:105][387]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.40:113][388]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.40:130][390]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.40:138][391]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.40:155][393]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.40:171][395]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.40:188][397]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.40:288][409]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.40:313][412]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.40:329][414]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.40:388][421]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.40:437][427]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.40:587][445]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.40:829][474]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.41:031][497]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.42:445][665]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.44:051][857]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.44:110][864]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.44:510][911]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.50:135][584]LogEditorViewport: Clicking on Actor (LMB): BP_Pelotitas_C (BP_Pelotitas209)
+[2021.12.23-00.37.50:830][665]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas208)
+[2021.12.23-00.37.51:640][760]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas207)
+[2021.12.23-00.37.52:225][828]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas206)
+[2021.12.23-00.37.53:559][986]Cmd: EDIT COPY
+[2021.12.23-00.37.53:817][ 17]Cmd: EDIT PASTE
+[2021.12.23-00.37.53:833][ 17]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.55:207][181]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.55:215][182]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.55:232][184]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.55:240][185]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.55:248][186]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.55:265][188]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.55:273][189]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.55:290][191]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.55:307][193]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.55:323][195]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.55:340][197]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.55:357][199]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.55:373][201]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.55:390][203]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.55:407][205]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.55:415][206]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.55:431][208]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.55:440][209]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.55:448][210]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.55:473][213]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.55:490][215]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.55:522][219]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.55:539][221]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.55:556][223]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.55:565][224]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.55:582][226]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.55:590][227]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.55:598][228]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.55:607][229]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.55:623][231]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.55:640][233]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.55:665][236]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.55:707][241]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.56:115][290]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.56:497][336]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.37.56:725][362]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.05:091][362]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.05:367][394]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.28:718][239]LogEditorViewport: Clicking on Actor (LMB): BP_Pelotitas_C (BP_Pelotitas27)
+[2021.12.23-00.38.29:514][332]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas28)
+[2021.12.23-00.38.30:384][434]Cmd: EDIT COPY
+[2021.12.23-00.38.30:639][464]Cmd: EDIT PASTE
+[2021.12.23-00.38.30:649][464]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.32:403][673]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.32:428][676]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.32:437][677]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.32:445][678]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.32:462][680]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.32:470][681]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.32:478][682]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.32:487][683]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.32:495][684]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.32:512][686]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.32:520][687]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.32:528][688]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.32:537][689]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.32:545][690]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.32:553][691]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.32:562][692]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.32:570][693]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.32:578][694]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.32:587][695]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.32:595][696]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.32:603][697]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.32:611][698]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.32:619][699]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.32:628][700]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.32:636][701]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.32:644][702]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.32:653][703]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.32:662][704]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.32:670][705]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.32:678][706]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.32:687][707]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.32:695][708]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.32:703][709]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.32:711][710]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.32:728][712]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.32:745][714]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.32:761][716]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.32:778][718]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.32:795][720]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.32:803][721]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.32:811][722]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.32:828][724]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.32:844][726]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.32:861][728]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.32:870][729]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.32:895][732]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.32:920][735]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.32:961][740]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.33:103][757]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.33:136][761]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.33:419][795]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.33:695][828]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.34:320][902]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.41:228][728]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.42:103][832]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.47:444][471]LogEditorViewport: Clicking on Actor (LMB): BP_Pelotitas_C (BP_Pelotitas32)
+[2021.12.23-00.38.48:066][543]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas30)
+[2021.12.23-00.38.48:861][636]Cmd: EDIT COPY
+[2021.12.23-00.38.49:088][663]Cmd: EDIT PASTE
+[2021.12.23-00.38.49:099][663]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.50:045][775]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.50:053][776]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.50:061][777]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.50:070][778]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.50:078][779]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.50:086][780]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.50:095][781]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.50:103][782]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.50:111][783]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.50:120][784]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.50:136][786]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.50:145][787]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.50:161][789]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.50:178][791]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.50:195][793]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.50:203][794]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.50:219][796]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.50:236][798]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.50:253][800]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.50:269][802]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.50:286][804]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.50:311][807]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.50:328][809]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.50:353][812]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.50:369][814]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.50:394][817]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.50:436][822]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.50:478][827]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.50:520][832]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.50:587][840]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.50:653][848]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.50:728][857]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.50:753][860]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.51:070][898]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.51:211][915]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.51:444][942]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.55:533][429]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.38.59:552][748]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Plane)
+[2021.12.23-00.39.00:229][823]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2021.12.23-00.39.07:637][708]LogEditorViewport: Clicking on Actor (LMB): BP_Pelotitas_C (BP_Pelotitas127)
+[2021.12.23-00.39.09:897][898]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas128)
+[2021.12.23-00.39.10:798][  4]Cmd: EDIT COPY
+[2021.12.23-00.39.11:088][ 38]Cmd: EDIT PASTE
+[2021.12.23-00.39.11:099][ 38]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.13:586][334]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.13:595][335]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.13:603][336]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.13:620][338]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.13:628][339]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.13:636][340]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.13:645][341]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.13:653][342]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.13:661][343]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.13:670][344]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.13:678][345]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.13:686][346]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.13:694][347]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.13:703][348]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.13:711][349]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.13:719][350]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.13:736][352]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.13:744][353]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.13:753][354]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.13:761][355]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.13:770][356]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.13:778][357]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.13:786][358]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.13:794][359]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.13:803][360]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.13:811][361]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.13:820][362]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.13:828][363]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.13:837][364]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.13:845][365]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.13:853][366]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.13:861][367]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.13:869][368]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.13:878][369]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.13:886][370]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.13:894][371]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.13:903][372]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.13:911][373]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.13:919][374]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.13:928][375]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.13:936][376]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.13:944][377]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.13:953][378]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.13:961][379]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.13:969][380]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.13:978][381]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.13:986][382]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.13:994][383]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.14:003][384]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.14:011][385]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.14:019][386]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.14:028][387]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.14:036][388]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.14:044][389]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.14:052][390]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.14:061][391]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.14:069][392]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.14:077][393]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.14:094][395]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.14:102][396]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.14:111][397]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.14:119][398]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.14:127][399]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.14:144][401]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.14:152][402]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.14:161][403]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.14:177][405]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.14:194][407]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.14:236][412]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.14:277][417]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.14:310][421]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.14:327][423]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.14:402][432]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.14:678][465]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.14:720][469]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.28:879][155]Cmd: EDIT COPY
+[2021.12.23-00.39.29:100][181]Cmd: EDIT PASTE
+[2021.12.23-00.39.29:111][181]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.29:949][280]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.29:957][281]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.29:967][282]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.29:975][283]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.29:983][284]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.29:992][285]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.30:000][286]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.30:008][287]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.30:017][288]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.30:025][289]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.30:033][290]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.30:042][291]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.30:050][292]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.30:058][293]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.30:075][295]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.30:083][296]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.30:092][297]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.30:100][298]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.30:117][300]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.30:125][301]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.30:133][302]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.30:150][304]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.30:166][306]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.30:183][308]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.30:208][311]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.30:266][318]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.30:316][324]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.30:550][351]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.37:830][984]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.38:238][ 32]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.41:931][474]LogEditorViewport: Clicking on Actor (LMB): BP_Pelotitas_C (BP_Pelotitas110)
+[2021.12.23-00.39.43:495][657]Cmd: EDIT COPY
+[2021.12.23-00.39.43:711][682]Cmd: EDIT PASTE
+[2021.12.23-00.39.43:722][682]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.44:715][800]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.44:731][802]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.44:748][804]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.44:765][806]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.44:773][807]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.44:781][808]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.44:791][809]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.44:799][810]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.44:807][811]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.44:816][812]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.44:824][813]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.44:832][814]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.44:841][815]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.44:849][816]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.44:857][817]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.44:866][818]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.44:874][819]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.44:882][820]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.44:891][821]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.44:899][822]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.44:907][823]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.44:916][824]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.44:932][826]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.44:941][827]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.44:957][829]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.44:974][831]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.44:982][832]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.44:999][834]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.45:024][837]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.45:273][867]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.45:665][913]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.48:473][249]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.48:816][289]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.51:676][631]LogEditorViewport: Clicking on Actor (LMB): BP_Pelotitas_C (BP_Pelotitas107)
+[2021.12.23-00.39.52:428][719]LogEditorViewport: Clicking on Actor (CTRL LMB): BP_Pelotitas_C (BP_Pelotitas108)
+[2021.12.23-00.39.53:190][808]Cmd: EDIT COPY
+[2021.12.23-00.39.53:409][834]Cmd: EDIT PASTE
+[2021.12.23-00.39.53:421][834]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.54:034][906]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.54:042][907]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.54:050][908]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.54:059][909]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.54:067][910]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.54:075][911]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.54:084][912]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.54:092][913]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.54:100][914]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.54:110][915]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.54:118][916]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.54:126][917]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.54:135][918]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.54:143][919]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.54:151][920]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.54:160][921]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.54:168][922]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.54:176][923]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.54:185][924]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.54:193][925]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.54:201][926]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.54:210][927]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.54:218][928]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.54:226][929]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.54:243][931]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.54:284][936]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.54:343][943]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.54:393][949]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.54:434][954]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.54:559][969]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.54:834][  2]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.55:076][ 31]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.55:226][ 49]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.39.55:543][ 86]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.40.02:648][931]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2021.12.23-00.40.02:734][931]LogSavePackage: Moving '../../../../../../Users/Macarena/Documents/Unreal Projects/PacmanSi/PacmanCheems/Saved/MapDaniB76EF31341DFCC930D9549B2D7E9049D.tmp' to '../../../../../../Users/Macarena/Documents/Unreal Projects/PacmanSi/PacmanCheems/Content/ThirdPersonBP/Maps/MapDani.umap'
+[2021.12.23-00.40.02:756][931]AssetCheck: New page: Asset Save: MapDani
+[2021.12.23-00.40.02:756][931]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/MapDani.MapDani
+[2021.12.23-00.40.31:119][796]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2021.12.23-00.40.36:740][469]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.12.23-00.40.37:378][542]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall11)
+[2021.12.23-00.40.41:473][853]LogSlate: Window 'Create Blueprint From Selection' being destroyed
+[2021.12.23-00.40.55:688][514]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.41.05:567][692]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.41.05:983][741]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.41.07:137][879]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.41.07:278][896]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.41.07:652][941]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.41.08:286][ 16]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.41.09:748][191]Cmd: DELETE
+[2021.12.23-00.41.09:748][191]Cmd: ACTOR DELETE
+[2021.12.23-00.41.09:753][191]LogEditorActor: Deleted Actor: BP_Wall_C
+[2021.12.23-00.41.09:772][191]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2021.12.23-00.41.09:775][191]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2021.12.23-00.41.09:775][191]LogNavigation: Warning: ConstructTiledNavMesh: Failed to create navmesh of size 0.
+[2021.12.23-00.41.20:210][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.12.23-00.41.21:403][534]LogSlate: Window 'Save Content' being destroyed
+[2021.12.23-00.41.21:437][534]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.12.23-00.41.21:522][534]LogSavePackage: Moving '../../../../../../Users/Macarena/Documents/Unreal Projects/PacmanSi/PacmanCheems/Saved/MapDani5F5AE4ED40645868551A5FBC29F62817.tmp' to '../../../../../../Users/Macarena/Documents/Unreal Projects/PacmanSi/PacmanCheems/Content/ThirdPersonBP/Maps/MapDani.umap'
+[2021.12.23-00.41.21:535][534]LogFileHelpers: Saving map 'MapDani' took 0.113
+[2021.12.23-00.41.21:542][534]AssetCheck: New page: Asset Save: MapDani
+[2021.12.23-00.41.21:542][534]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/MapDani.MapDani
