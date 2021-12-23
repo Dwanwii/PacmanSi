@@ -2571,6 +2571,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.12.23-00.41.21:535][534]LogFileHelpers: Saving map 'MapDani' took 0.113
 [2021.12.23-00.41.21:542][534]AssetCheck: New page: Asset Save: MapDani
 [2021.12.23-00.41.21:542][534]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/MapDani.MapDani
+<<<<<<< Updated upstream
 [2021.12.23-00.44.55:128][352]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
 [2021.12.23-00.44.55:169][352]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
 [2021.12.23-00.44.55:169][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
@@ -3005,3 +3006,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.12.23-00.44.57:932][353]LogD3D11RHI: CleanupD3DDevice
 [2021.12.23-00.44.57:943][353]LogExit: Exiting.
 [2021.12.23-00.44.57:955][353]Log file closed, 12/22/21 21:44:57
+=======
+>>>>>>> Stashed changes
